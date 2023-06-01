@@ -27,8 +27,8 @@ The model used in this project is available for download at the following link:
 
 ## Acknowledgments
 
-- Food 101 dataset from ETH Zurich (provide link if available)
-- Add any other acknowledgments or credits if applicable.
+- Food 101 dataset from ETH Zurich (LINK not up anymore)
+- Kaggle for providing GPU resources.
 
 ## License
 
